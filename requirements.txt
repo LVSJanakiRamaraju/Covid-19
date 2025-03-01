@@ -1,7 +1,5 @@
 streamlit
-numpy
 pandas
-seaborn
+numpy
+scikit-learn
 matplotlib
-time
-sklearn
